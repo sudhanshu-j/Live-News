@@ -209,10 +209,10 @@ Yes! You can modify the CSS in the `style.css` file, especially within the **med
 
 ---
 
+<!-- 
 ## Contact 📬
 
-If you have any questions, suggestions, or feedback, feel free to contact me at [your-email@example.com](mailto:your-email@example.com). I'd love to hear from you!
-
+If you have any questions, suggestions, or feedback, feel free to contact me at [your-email@example.com](mailto:your-email@example.com). I'd love to hear from you! -->
 ---
 
 ## Future Enhancements 🚀
