@@ -153,17 +153,17 @@ To customize the website's logo, replace the logo.png file with your own logo im
 
 We welcome contributions to improve and extend this project! If you'd like to contribute, please follow these steps:
 
-### 1. Fork the repository on GitHub.
+**1. Fork the repository on GitHub.**
 
-### 2. Clone your fork to your local machine.
+**2. Clone your fork to your local machine.**
 
-### 3. Create a new branch `(git checkout -b feature-name)`.
+**3. Create a new branch** `(git checkout -b feature-name)`.
 
-### 4. Make your changes and commit them `(git commit -am 'Add feature')`.
+**4. Make your changes and commit them** `(git commit -am 'Add feature')`.
 
-### 5. Push your changes to your fork `(git push origin feature-name)`.
+**5. Push your changes to your fork** `(git push origin feature-name)`.
 
-### 6. Open a pull request to merge your changes into the main repository.
+**6. Open a pull request to merge your changes into the main repository.**
 
 <!-- ## Screenshots 📸
 
